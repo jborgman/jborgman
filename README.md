@@ -5,7 +5,11 @@
 <a href="https://www.linkedin.com/in/jborgman0/"><img height="48" src="https://github.com/jborgman/jborgman/blob/master/img/linkedin-48.png?raw=true"></a>
 </p>
 
+---
+
 <h2 align="center">Hello there! My name is Josh[ua] Borgman.</h2>
+
+I'm currently an [analytics leader](https://www.linkedin.com/in/jborgman0/) @ Sychrony Financial, focusing on cross-domain strategies within consumer financial services. I occasionally post on my [website](https://github.io/jborgman0) about random musings, mostly things loosely related to DS/ML, stats, or physics. 
 
 
 <!--

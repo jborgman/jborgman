@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align='center'>
-<a href="https://instagram.com/joshborgman"><img height="48" src="https://github.com/jborgman/jborgman/master/img/instagram-48.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/jborgman0/"><img height="48" src="https://github.com/jborgman/jborgman/master/img/linkedin-48.png?raw=true"></a>
+<a href="https://instagram.com/joshborgman"><img height="48" src="https://github.com/jborgman/jborgman/blob/master/img/instagram-48.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/jborgman0/"><img height="48" src="https://github.com/jborgman/jborgman/blob/master/img/linkedin-48.png?raw=true"></a>
 </p>
 
 <h2 align="center">Hello there! My name is Josh[ua] Borgman.</h2>

@@ -9,7 +9,7 @@
 
 <h2 align="center">Hello there! My name is Josh[ua] Borgman.</h2>
 
-I'm currently an [analytics leader](https://www.linkedin.com/in/jborgman0/) @ Sychrony Financial, focusing on cross-domain strategies within consumer financial services. I occasionally post on my [website](https://jborgman.github.io/) about random musings, mostly things loosely related to DS/ML, stats, or physics. 
+I'm currently an [analytics leader](https://www.linkedin.com/in/jborgman0/) @ Amazon.com, focusing on pricing, evaluation and perception products. I occasionally post on my [website](https://jborgman.github.io/) about random musings, mostly things loosely related to DS/ML, stats, or physics. 
 
 
 <!--
